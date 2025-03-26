@@ -4,7 +4,7 @@
 This project implements a **Convolutional Neural Network (CNN)** to classify images of cats and dogs. The model is trained using deep learning techniques on labeled datasets to achieve high accuracy in distinguishing between the two classes.  
 
 ## 🚀 Features  
-- Image classification using **CNN**  
+- Image classification using **CNN**   
 - Preprocessing and augmentation of images  
 - Training and evaluation on labeled datasets  
 - Visualization of training performance  
