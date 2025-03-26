@@ -9,7 +9,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify ima
 - Training and evaluation on labeled datasets  
 - Visualization of training performance  
 - Model saving and loading for inference  
-
+ 
 ## 🛠️ Technologies Used  
 - **Python**  
 - **TensorFlow / Keras**  
